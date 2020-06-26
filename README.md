@@ -20,3 +20,9 @@ Tools used:
 + Terraform v0.12.26
 + provider.azurerm v2.15.0
 + provider.null v2.1.2
+
+My other repos, on for each challenge:
++ [Challenge 1](https://github.com/OmegaMadLab/TerraformOnAzure-Challenge1)
++ [Challenge 3](https://github.com/OmegaMadLab/TerraformOnAzure-Challenge3)
++ [Challenge 4](https://github.com/OmegaMadLab/TerraformOnAzure-Challenge4)
++ [Challenge 5](https://github.com/OmegaMadLab/TerraformOnAzure-Challenge5)
